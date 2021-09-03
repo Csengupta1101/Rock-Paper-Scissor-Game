@@ -1,4 +1,4 @@
-**Game Introduction**
+# **Game Introduction**
 
 A Basic version of Rock paper Scissor Made with python. Jupyter notebook is used as the IDE.
 
