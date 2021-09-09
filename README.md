@@ -1,4 +1,4 @@
-# ![RPS](https://images.unsplash.com/photo-1618214839021-3fbe98a597bc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80) Rock Paper Scissor
+# ![RPS](https://images.unsplash.com/photo-1618214839021-3fbe98a597bc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80)
 
 # **Game Introduction**
 
